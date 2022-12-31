@@ -9,4 +9,5 @@ tanmt4/tanmt4 is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 
 Can doc thong tin nay truoc khi su dung
+Khi sua can cap nhat them thong tin
 --->
